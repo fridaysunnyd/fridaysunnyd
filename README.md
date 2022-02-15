@@ -19,7 +19,7 @@ class me {
 }
 ```
 
-![](https://leetcode-cn.com/u/fridaysunnyd/)
+![](https://static.leetcode-cn.com/cn-mono-assets/production/assets/logo-light-cn.17bc9272.svg)
 <a href="https://leetcode-cn.com/u/fridaysunnyd/">see me leetcode</a>
 <!--
 **fridaysunnyd/fridaysunnyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
