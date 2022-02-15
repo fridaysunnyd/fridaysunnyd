@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🏃‍♀️🧱🏃‍♀️🪵🏃‍♀
+
+![](https://avatars.githubusercontent.com/u/46018456?v=4)
 <!--
 **fridaysunnyd/fridaysunnyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
